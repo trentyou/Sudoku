@@ -1,6 +1,6 @@
 Sudoku
 ======
-A sudoku solver that utilizes logic methods to rule out possible answers and guessing methods when no logical choice can be made.
+A Sudoku solver that utilizes logic methods to rule out possible answers and guessing methods when no logical choice can be made.
 
 
 
